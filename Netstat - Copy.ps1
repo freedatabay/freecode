@@ -1,0 +1,1 @@
+while(1){ clear;netstat -ano;sleep 120}
